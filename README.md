@@ -15,3 +15,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kalindubawantha&theme=radical" alt="kalindubawantha" /></p>
 </div>
+
+<div align="center">
+  
+***My Contributions*** <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f622/512.gif" alt="😢" width="32" height="32"> <br>
+<img src="https://raw.githubusercontent.com/kalindubawantha/kalindubawantha/output/snake.svg" alt="Snake animation" />
+</div>
